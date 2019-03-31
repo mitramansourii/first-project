@@ -1,0 +1,38 @@
+html,
+body{
+    background-image: url(white-waves.png);
+
+}
+div#header{
+
+}
+div#thing1{
+
+
+}
+.up{
+    background-color: blue;
+    color :white;
+    text-align: center;
+    padding: 25px;
+    border-radius: 15px;
+    width: 300px;
+}
+/*
+.header{
+    margin: 10px;
+ */   
+}
+.header .text{
+    padding: 25px;
+}
+.header .addtodo#add-todo{
+    
+}
+.thing1{
+    background-color: aquamarine;
+    width: 300px;
+    border-radius: 15px;
+    color : black;
+    padding: 25px;
+}
